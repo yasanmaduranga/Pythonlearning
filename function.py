@@ -16,3 +16,13 @@ def per_1_2(name):
     print(name+" : thank you")
 
 per_1_2("Yasan")
+
+#return statement
+def calculation(a,b,c):
+    print(a+b+c)
+    print("this is a calculations")
+    return print("Hello")
+    print("Hi")
+    print(a+b)
+
+calculation(1,2,3)
